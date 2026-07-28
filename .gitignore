@@ -87,6 +87,8 @@ project.lock.json
 project.fragment.lock.json
 artifacts/
 .artifacts/
+bin/
+obj/
 
 # ASP.NET Scaffolding
 ScaffoldingReadMe.txt
@@ -414,6 +416,7 @@ FodyWeavers.xsd
 !.vscode/launch.json
 !.vscode/extensions.json
 !.vscode/*.code-snippets
+.idea/
 
 # Local History for Visual Studio Code
 .history/

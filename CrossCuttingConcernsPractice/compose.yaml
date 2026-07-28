@@ -1,0 +1,7 @@
+﻿services:
+  projectmanager.host:
+    image: projectmanager.host
+    build:
+      context: .
+      dockerfile: src/host/ProjectManager.Host/Dockerfile
+

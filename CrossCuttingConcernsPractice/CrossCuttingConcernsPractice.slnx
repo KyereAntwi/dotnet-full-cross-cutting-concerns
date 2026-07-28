@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="compose.yaml" />
+  </Folder>
+  <Folder Name="/src/" />
+  <Folder Name="/src/host/">
+    <Project Path="src/host/ProjectManager.Host/ProjectManager.Host.csproj" />
+  </Folder>
+</Solution>
